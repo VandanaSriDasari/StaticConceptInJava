@@ -8,7 +8,7 @@ public class Static {
 
 	public static void main(String[] args) {
 		System.out.println(Static.number);
-		System.out.println("Accessing STatic field");
+		System.out.println("Accessing STatic fielddd");
 		//static is shared memory..it is a single copy hence everytime we assign it is overriden
 		
 		
